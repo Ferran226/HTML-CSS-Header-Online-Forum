@@ -1,0 +1,11 @@
+@mixin estilo-icon{
+    &.icon{
+        padding: 1px 16px;
+        border-radius: 16px;
+        width: 19%;
+        background: rgba(255, 255, 255, 0.125);
+    }
+    &.calendar{
+        width: 24%;
+    }
+}
